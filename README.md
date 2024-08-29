@@ -1,4 +1,6 @@
-Array Operations Project
+#Array Operations Project
+
+
 This project is a simple application in C# that demonstrates various operations on an array. The project includes adding data to an array, sorting the array, and updating the array by adding a new value provided by the user.
 
 Project Steps
